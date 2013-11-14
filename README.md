@@ -15,5 +15,3 @@ Put experiment-specific stimuli classes in `custom_stimli.py`.
 * Global settings are defined in `settings/base.py`.
 * Environment-specific settings have their own file modules, e.g. `mri.py` and `dev.py` (development).
 * The environment can be switched by changing the `ENV` variable in `settings/base.py`
-
-[MIT Licensed](http://sloria.mit-license.org/).
